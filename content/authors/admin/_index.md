@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yan Feng
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student at McMaster University
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McMaster University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
