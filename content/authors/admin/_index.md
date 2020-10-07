@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at McMaster University
+role: Student at DeGroote School of Business
 
 # Organizations/Affiliations
 organizations:
@@ -23,19 +23,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Travelling
 - Badminton
-- 
+- Books & Movies
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Finance
+    institution: McMaster University
+    year: 2019.09 -- 2021.01
+  - course: BSc in Economics
+    institution: Beijing University of Technology
+    year: 2015.09 -- 2019.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
