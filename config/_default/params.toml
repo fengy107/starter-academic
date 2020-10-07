@@ -114,7 +114,7 @@ appointment_url = "https://calendly.com/yan-feng"
 contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn Me", link = "https://www.linkedin.com/in/edward-yan-feng-419a65181/"},
   {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp Me", link = "skype:echo123?call"},
-  {icon = "wechat", icon_pack = "fab", name = "WeChat Me", link = "https://keybase.io/"},
+  {icon = "weixin", icon_pack = "fab", name = "WeChat Me", link = "https://keybase.io/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
