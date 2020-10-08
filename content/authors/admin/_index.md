@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Yan Feng is a student of Master of Finance at McMaster University. He is actively looking for a job but has not get any interviews yet [sad face]. R and python are the two programming languages that he is currently learning -- some course projects or notes can be found in Projects part. He also has some knowledge of MATLAB and VBA. His biggest interest is to travel to different places and 
+Yan Feng is a student of Master of Finance at McMaster University. He is actively looking for a job but has not get any interviews yet [sad face]. R and python are the two programming languages that he is currently learning -- some course projects or notes can be found in Projects part. He also has some knowledge of MATLAB and VBA. His biggest interest is to travel to different places, taste local foods, visit hostorical sites, and wander through little back alleys and find out thing for himself. Some photos， interesting experience, and his afterthoughts can be found in the Travel,Books, & Movies section.
 
