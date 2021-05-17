@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at DeGroote School of Business
+role: MFin at DeGroote Business School | CFA Level II Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: McMaster University
+- name: Actively looking for opportunities in Finance Industry
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Master of Finance
     institution: McMaster University
-    year: 2019.09 -- 2021.01
+    year: 2019.09 -- 2020.12
   - course: BSc in Economics
     institution: Beijing University of Technology
     year: 2015.09 -- 2019.06
